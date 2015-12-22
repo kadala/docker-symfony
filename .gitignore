@@ -1,5 +1,5 @@
 /docker/logs
 docker-compose.yml
-.idea
+/.idea
 .DS_Store
 /symfony
